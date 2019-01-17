@@ -1,10 +1,13 @@
 {
-    "metadata": {
-        "version": 0.1
-    },
-    "sara": {
-        "en": [
-            "English translation of the Kenopanishad."
-        ]
-    }
+  "metadata": {
+    "version": 0.1
+  },
+  "sara": {
+    "en": [
+      "English translation of the Kenopanishad."
+    ]
+  },
+  "bhashya": {
+    "sh": "Acharya Shankaracharya's commentary on the Kenopanishad."
+  }
 }

@@ -22,12 +22,107 @@
       "ॐ शान्तिः शान्तिः शान्तिः"
     ]
   },
+  "padartha": {
+    "en": [
+      {
+        "ॐ": "Om, the supreme soul",
+        "मम": "my",
+        "अङ्गानि": "all limbs",
+        "वाक्": "speech",
+        "प्राणः": "vital air, breath",
+        "चक्षुः": "eyes",
+        "श्रोत्रम्": "ears",
+        "च": "and",
+        "सर्वाणि": "all",
+        "इन्द्रियाणि": "sense organs",
+        "अथ": "and",
+        "वलम्": "strength",
+        "आप्यायन्तु": "filled with"
+      },
+      {
+        "सर्वम्": "all",
+        "औपनिषदं": "described in Upanishads",
+        "ब्रह्म": "Brahman, supreme soul",
+        "अहम्": "I",
+        "ब्रह्म": "that Brahman",
+        "मा निराकुर्यां": "never deny",
+        "ब्रह्म": "that Brahman",
+        "मा": "me",
+        "मा निराकरोत्": "never leave",
+        "अनिराकरणम्": "unseparable relation",
+        "अस्तु": "let there be",
+        "मे": "with me",
+        "अनिराकरणं": "unseparable relation",
+        "अस्तु": "let there be"
+      },
+      [
+        {
+          "उपनिषत्सु": "expounded in Upanishads"
+        },
+        {
+          "ये": "the"
+        },
+        {
+          "धर्माः": "duties"
+        },
+        {
+          "ते": "they all"
+        },
+        {
+          "तत् आत्मनि": "in that supreme soul"
+        },
+        {
+          "निरते": "engaged"
+        },
+        {
+          "मयि": "in me"
+        },
+        {
+          "सन्तु": "be there"
+        },
+        {
+          "ते": "they all"
+        },
+        {
+          "मयि": "in me"
+        },
+        {
+          "सन्तु": "be there"
+        }
+      ],
+      [
+        {
+          "ॐ": "Om, the supreme soul"
+        },
+        {
+          "शान्तिः": "(let there be) peace"
+        },
+        {
+          "शान्तिः": "peace"
+        },
+        {
+          "शान्तिः": "peace"
+        }
+      ]
+    ]
+  },
   "anuvada": {
     "en": [
-      "Om! (May) my limbs speech, prana, eyes, ears and all senses be strengthened.",
+      "Om! (May) all my limbs, speech, prana, eyes, ears and all senses be strengthened.",
       "The Brahman described in Upanishads, (may) I never deny that Brahman, (may) that Brahman never deny me, let there be no separation, let there be no separation between us.",
       "That dharma described in Upanishads, may be internalized in me (who is) engaged in that supreme soul, let them manifest in me.",
       "Om! Peace, Peace, Peace."
     ]
+  },
+  "bhashya": {
+    "sh": {
+      "sa": [
+        "'केनेषितम्' इति आदि उपनिषत् परब्रह्मविषया वक्तव्या इति नवमस्य अध्यायस्य आरम्भः ।",
+        ""
+      ],
+      "en": [
+        "Now we shall discuss 'KeneSitAM' etc. upanishad on the topic of the supreme Brahman, thus begins the ninth chapter."
+      ]
+    }
   }
 }
