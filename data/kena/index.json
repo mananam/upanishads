@@ -8,6 +8,7 @@
     ]
   },
   "bhashya": {
-    "sh": "Acharya Shankaracharya's commentary on the Kenopanishad."
+    "sh_pad": "Acharya Shankaracharya's word based commentary (पद-भाष्य) on the Kenopanishad.",
+    "sh_vak": "Acharya Shankaracharya's sentence based commentary (वाक्य-भाष्य) on the Kenopanishad."
   }
 }
