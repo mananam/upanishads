@@ -24,37 +24,91 @@
   },
   "padartha": {
     "en": [
-      {
-        "ॐ": "Om, the supreme soul",
-        "मम": "my",
-        "अङ्गानि": "all limbs",
-        "वाक्": "speech",
-        "प्राणः": "vital air, breath",
-        "चक्षुः": "eyes",
-        "श्रोत्रम्": "ears",
-        "च": "and",
-        "सर्वाणि": "all",
-        "इन्द्रियाणि": "sense organs",
-        "अथ": "and",
-        "वलम्": "strength",
-        "आप्यायन्तु": "filled with"
-      },
-      {
-        "सर्वम्": "all",
-        "औपनिषदं": "described in Upanishads",
-        "ब्रह्म": "Brahman, supreme soul",
-        "अहम्": "I",
-        "ब्रह्म": "that Brahman",
-        "मा निराकुर्यां": "never deny",
-        "ब्रह्म": "that Brahman",
-        "मा": "me",
-        "मा निराकरोत्": "never leave",
-        "अनिराकरणम्": "unseparable relation",
-        "अस्तु": "let there be",
-        "मे": "with me",
-        "अनिराकरणं": "unseparable relation",
-        "अस्तु": "let there be"
-      },
+      [
+        {
+          "ॐ": "Om, the supreme soul"
+        },
+        {
+          "मम": "my"
+        },
+        {
+          "अङ्गानि": "all limbs"
+        },
+        {
+          "वाक्": "speech"
+        },
+        {
+          "प्राणः": "vital air, breath"
+        },
+        {
+          "चक्षुः": "eyes"
+        },
+        {
+          "श्रोत्रम्": "ears"
+        },
+        {
+          "च": "and"
+        },
+        {
+          "सर्वाणि": "all"
+        },
+        {
+          "इन्द्रियाणि": "sense organs"
+        },
+        {
+          "अथ": "and"
+        },
+        {
+          "वलम्": "strength"
+        },
+        {
+          "आप्यायन्तु": "filled with"
+        }
+      ],
+      [
+        {
+          "सर्वम्": "all"
+        },
+        {
+          "औपनिषदं": "described in Upanishads"
+        },
+        {
+          "ब्रह्म": "Brahman, supreme soul"
+        },
+        {
+          "अहम्": "I"
+        },
+        {
+          "ब्रह्म": "that Brahman"
+        },
+        {
+          "मा निराकुर्यां": "never deny"
+        },
+        {
+          "ब्रह्म": "that Brahman"
+        },
+        {
+          "मा": "me"
+        },
+        {
+          "मा निराकरोत्": "never leave"
+        },
+        {
+          "अनिराकरणम्": "unseparable relation"
+        },
+        {
+          "अस्तु": "let there be"
+        },
+        {
+          "मे": "with me"
+        },
+        {
+          "अनिराकरणं": "unseparable relation"
+        },
+        {
+          "अस्तु": "let there be"
+        }
+      ],
       [
         {
           "उपनिषत्सु": "expounded in Upanishads"
@@ -118,11 +172,21 @@
     "sh_pad": {
       "sa": [
         "'केनेषितम्' इति आदि उपनिषत् परब्रह्मविषया वक्तव्या इति नवमस्य अध्यायस्य आरम्भः । प्राग् एतस्मात् कर्माणि अशेषतः परिसमापितानि, समस्त कर्म आश्रय भूतस्य च प्राणस्य उपासनानि उक्तानि कर्माङ्ग सामविषयाणि च । अनन्तरं च गायत्रसामविषयं दर्शनं वंशान्तमुक्तं कार्यम् ।",
-        "सर्वम् एतद् यथा उक्तं कर्म च ज्ञानं च सम्यग् अनुष्ठितं निष्कामस्य मुमुक्षोः सत्वशुद्ध्यर्थं भवति । सकामस्य तु ज्ञानरहितस्य केवलानि श्रौतानि स्मार्तानि च कर्माणि दक्षिणमार्गप्रतिपत्तये पुनरावृत्तये च भवन्ति । स्वाभाविक्या तु अशास्त्रीयया प्रवृत्त्या पश्वादिस्थावरान्ता अधोगतिः स्यात् । 'अथैतयोः पथोर्न कतरेण च न तानीमानि क्षुद्राण्यसकृदावर्तीनि भूतानि भवन्ति जायस्व म्रियस्वेत्येतत्तृतीयँ स्थानम्' इति श्रुतेः; 'प्रजा ह तिस्त्रोऽत्यायमीयुः' इति च मन्त्रवर्णात् ।"
+        "सर्वम् एतद् यथा उक्तं कर्म च ज्ञानं च सम्यग् अनुष्ठितं निष्कामस्य मुमुक्षोः सत्वशुद्ध्यर्थं भवति । सकामस्य तु ज्ञानरहितस्य केवलानि श्रौतानि स्मार्तानि च कर्माणि दक्षिणमार्गप्रतिपत्तये पुनरावृत्तये च भवन्ति । स्वाभाविक्या तु अशास्त्रीयया प्रवृत्त्या पश्वादिस्थावरान्ता अधोगतिः स्यात् । 'अथैतयोः पथोर्न कतरेण च न तानीमानि क्षुद्राण्यसकृदावर्तीनि भूतानि भवन्ति जायस्व म्रियस्वेत्येतत्तृतीयँ स्थानम्' इति श्रुतेः; 'प्रजा ह तिस्त्रोऽत्यायमीयुः' इति च मन्त्रवर्णात् ।",
+        "विशुद्धसत्वस्य तु निष्कामस्य एव बाह्यात् अनित्यात् साध्यसाधनसम्बधनात् इह कृतात् पूर्वकृतात् वा संस्कारविशेष उद्धवात् विरक्तस्य प्रत्यगात्मविषया जिज्ञासा प्रवर्तते । तत् एतत् वस्तु प्रश्नप्रतिवचन लक्षणया श्रुत्या प्रदर्शते 'केनेषितम्' इत्याद्यया । काठके च उक्तम् 'पराञ्चि खानि व्यतृणत्स्वयम्भूस्तस्मात्परां पश्यति नान्तरात्मन् । कश्चित् धीरः प्रत्यगात्मानम् एक्षत् आवृत्त चक्षुः अमृतत्वम् इच्छन्' इत्यादि । 'परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेद मायात् न अस्ति अकृतः कृतेन । तत् विज्ञानार्थं स गुरूमेव अभिगच्छेत् समित् पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ।' इत्याद्याथर्वणे च ।",
+        "एवं हि विरक्तस्य प्रत्यगात्मविषयं विज्ञानं श्रोतुं मन्तुं विज्ञातुं च सामर्थ्यम् उपपद्यते न अन्यथा । एतस्मात् च प्रत्यगात्मब्रह्मविज्ञानात् संसारबीजं अज्ञानं कामकर्मप्रवृत्तिकारणं अशेषतः निवर्तते, 'तत्र को मोहः कः शोकः एकत्वम् अनुपश्यतः' इति मन्त्रवर्णात्, 'तरति शोकमात्मवित्' इति 'भिद्यते हृदयग्रन्थिः छिद्यन्ते सर्वसंशयाः । क्षीयन्ते च अस्य कर्माणि तस्मिन् दृष्टे परावरे ॥' इत्यादिश्रुतिभ्यः च ।",
+        "कर्मसहितात् अपि ज्ञानादि एतत् सिध्यति इति चेत्?",
+        "न; वाजसेनयके तस्यान्यकारणत्ववचनात् । 'जाया मे स्यात्' इति प्रस्तुत्य 'पुत्रेण अयं लोको जय्यो न अन्येन कर्मणा, कर्मणा पितृलोको विद्यया देवलोकः' इति आत्मना अन्यस्य लोकत्रयस्य कारण्त्वमुक्तं वाजसनेयके ।",
+        "तत्र एव च पारिव्राज्यविधाने हेतुः उक्तः 'किम् प्रजया करिष्यामो येषां नः अयम् आत्मायं लोकः' इति । तत्र अयं हेतु अर्थः - प्रजाकर्म तत् संयुक्तविद्याभिः मनुष्यपितृदेवलोकत्रयसाधनैः अनात्मलोकप्रतिपत्तिकारणैः किम् करिष्यामः । न च अस्माकं लोकत्रयम् अनित्यं साधनसाध्यम् इष्टम्, येषाम् अस्माकं स्वाभविकः अजः अजरः अमृतः अभयः न वर्धते कर्मणा नो कनीयात् नित्यः च लोक इष्टः । स च नित्यत्वात् न अविद्यानिवृत्ति व्यतिरेकेण अन्य साधननिष्पाद्यः । तस्मात् प्रत्यगात्मब्रह्मविज्ञानपूर्वकः सर्वैषणासंन्यास एव कर्तव्य इति ।"
       ],
       "en": [
         "Now we shall discuss 'KeneSitAM' etc. upanishad on the topic of the supreme Brahman, thus begins the ninth chapter. Before this section, outline of various duties and rites have been completed; the worship of vital breath which is the basis of all rites, and worship of *Samas* have been described. After that the *Gayatra Sama* is discussed and the rites ending with teacher-student lineage are outlined.",
-        "Performing the above mentioned knowledge and rites leads to purification of mind in a student without desire (निष्कामस्य, for worldly things and) striving for emancipation from the world (मुमुक्षोः). For the one with desires and without realization the duties prescribed in Shrutis (knowledge passed on via listening, the Vedas) and Smrities (knowledge passed on via memory, various books by Rishis e.g. Manu Smriti) lead them to Southern Path and coming back to this world. Apart from these, actions not prescribed in Shastras (Shruti, Smriti and Puranas) lead to downfall for everyone from animals to immovables (lowest grade of existence). 'Who does not take these two paths; these little beings are subject to continuous coming back into the world; `take birth and die` this is their third place (path)' says the Shruti (Chandogya Upanishad, 2.1.1). 'Three famous beings left the righteousness' this statement of Shruti also says the same thing."
+        "Performing the above mentioned knowledge and rites leads to purification of mind in a student without desire (निष्कामस्य, for worldly things and) striving for emancipation from the world (मुमुक्षोः). For the one with desires and without realization the duties prescribed in Shrutis (knowledge passed on via listening, the Vedas) and Smrities (knowledge passed on via memory, various books by Rishis e.g. Manu Smriti) lead them to Southern Path and coming back to this world. Apart from these, actions not prescribed in Shastras (Shruti, Smriti and Puranas) lead to downfall for everyone from animals to immovables (lowest grade of existence). 'Who does not take these two paths; these little beings are subject to continuous coming back into the world; `take birth and die` this is their third place (path)' says the Shruti (Chandogya Upanishad, 2.1.1). 'Three famous beings left the righteousness' this statement of Shruti also says the same thing.",
+        "The curiousity to know the Self arises in a desireless individual dispassionate about the impermanent divisions in the meditation and objects of meditation arising from the impressions of actions in this life or previous lives. This (curiousity) is shown in the words of Shruti by question and dialogues such as 'By which lord' etc.. In the Kathopanishad, it is told 'Supreme Brahman has made the senses violent by their outwardness, this is why the senses always look outside, instead of looking inward to the Self; a few wise persons desiring immortality have stopped the senses and witnessed the Supreme Self' etc.. In the Atharva Veda based Upanishad (Mundaka) it is told 'Individuals established on the Brahman should examine the worlds of people to attain dispassion because actions in the world can never lead to the one beyond actions. To know That, the student carries sacrificial wood and approaches a teacher knowledgable in the Shrutis and established in Brahman.' etc..",
+        "This is the only way for dispassionate person to attain the ability to listen, reflect and realize the knowledge of the supreme Self. Knowledge of this supreme Self causes complete annihilation of desire, passion for action and the ignorance which is seed of this world, like 'What is the delusion and sorrow for the individual seeing oneness there?' mantra or 'Knower of the Self crosses the (ocean of) sorrows' etc. 'Witnessing that supreme Self, the knot of heart is destroyed, all doubts are dissolved and all actions are destroyed.' etc. words of the Shrutis indicate.",
+        "Can this state be also attained with knowledge along with actions?",
+        "No, because Vajasaneya (Brihadaranyaka Upanishad) outlines it (Knowledge along with actions) to cause something else. Starting with 'Let me have a wife', the Vajasenaya speaks about 'This world can be won over with begetting children not with any other actions, the world of fatherly elders with duties, the world of divine beings with knowledge (worship)' likewise it is the cause of three worlds other than the supreme Self.",
+        "There only (in Brihadaranyaka Upanishad) the reason for taking *sanyaasa* is mentioned thus - 'What will we do with procreation, this world of the Self is desirous to us.'. The intention of that rationale is - 'World of people, world of fatherly elders and world of divine beings - the approach to attain these three worlds like children, duties and knowledge with action (worship) has nothing to do with us; because we are desirous of that natural, birthless, decayless, fearless and the one which does not increase or decrease with actions, that permanent world is cherished by us. And that (world of the Self) being permanent cannot be attained with any approach other than destruction of the ignorance. Therefore we should give up all other wishes (attainment of world of people, fatherly elders and divine beings) to attain the knowledge of oneness of the Self and Brahman."
       ]
     },
     "sh_vak": {
