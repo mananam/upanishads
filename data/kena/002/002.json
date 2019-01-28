@@ -8,18 +8,36 @@
       "चक्षुषश्चक्षुरतिमुच्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥"
     ],
     "padachhed": [
-      "श्रोत्रस्य श्रोत्रं मनसो मनो यत् वाचः स उ प्राणस्य प्राणः ।",
+      "श्रोत्रस्य श्रोत्रं मनसो मनो यत् वाचः ह वाचं‌ स उ प्राणस्य प्राणः ।",
       "चक्षुषः चक्षुः अतिमुच्य धीराः प्रेत्य अस्मात् लोकात् अमृताः भवन्ति ॥"
     ],
     "anvaya": [
-      "यत् मनसः मनः प्राणस्य प्राणः श्रोत्रस्य श्रोत्रं उ ।",
+      "यत् मनसः मनः प्राणस्य प्राणः वाचः वाचं श्रोत्रस्य श्रोत्रं उ ।",
       "चक्षुषः चक्षुः स ह धीराः अतिमुच्य अस्मात् लोकात् अमृताः भवन्ति ॥"
     ]
   },
   "anuvada": {
     "en": [
-      "The mind of the mind, breath of the breath, ear of the ear and",
+      "The mind of the mind, breath of the breath, speech of the speech, ear of the ear and",
       "eye of the eye, (knowing) that only, the wise people, escaping this world attain immortality after death."
     ]
+  },
+  "bhashya": {
+    "sh_pad": {
+      "sa": [
+        "श्रोत्रस्य श्रोत्रं शृणोति अनेन इति श्रोत्रं, शब्दस्य श्रवणं प्रति करणं शब्द अभिव्यञ्जकं श्रोत्रम् इन्द्रियम्, तस्य श्रोत्रं स यः त्वया पृष्टः 'चक्षुः श्रोत्रं क उ देवो युनक्ति' इति ।",
+        "असावेवंविशिष्टः श्रोत्रादीनि नियुङ्क्त इति वक्तव्ये ननु एतत् अनुरूपं प्रतिवचनं श्रोत्रस्य श्रोत्रम् इति ।",
+        "न एष दोषः, तस्य अन्यथा विशेषानवगमात् । यदि हि श्रोत्रादिव्यपारव्यतिरेकेन स्वव्यापारेण विशिष्टः श्रोत्रादिनियोक्ता अवगम्येत दात्रादिप्रयोक्तृवत्, तदेदमननुरूपं प्रतिवचनं स्यात् । न तु इह श्रोत्रादीनां प्रयोक्ता स्वव्यापारविशिष्टः लवित्रादिवत् अधिगम्यते । श्रोत्रादीनाम् एव तु संहतानां व्यपारेणालोचनसङ्कल्प अध्यवसाय लक्षणेन फलावसानलिङ्गेन अवगम्यते - अस्ति हि श्रोत्रादिभिरसंहतः, यत् प्रयोजनप्रयुक्तः श्रोत्रादिकलापः गृहादिवदिति । संहतानां परार्थत्वाद् अवगम्यते श्रोत्रादीनां प्रयोक्ता तस्मात् अनुरूपं एव इदं प्रतिवचनं श्रोत्रस्य श्रोत्रम् इत्यादि ।"
+      ],
+      "en": [
+        "Ear of the ear - that which helps in hearing is the ear; the means to hear a sound, or the revealer of sound is the sense organ *ear*; its ear is about which you have asked like 'Who is the divine being to appoint the eye and ear?'.",
+        "In the answer to this question, it should have been mentioned that such and such kind of person commands the eye and the ear; just saying that he is the ear of the ear is not the right answer.",
+        "There is no problem with this, because That (who sends forth eye and ear) cannot be known through any other special forms. This answer would have been invalid if there were a person with own activities, independent of the activities of the ear etc. similar to individual using a sickle (for cutting grass). However here there is no such individual known with his own activities who commands the ears etc. similar to the individual who commands the sickle for mowing. <incomplete>"
+      ]
+    },
+    "sh_vak": {
+      "sa": [],
+      "en": []
+    }
   }
 }
